@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "electrikjesus/device_lge_g2-common",
+    "target_path": "device/lge/g2-common"
+    "revision": "n7.0"
+  }
+]
